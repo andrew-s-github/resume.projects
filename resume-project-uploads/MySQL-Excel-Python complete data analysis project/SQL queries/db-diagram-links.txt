@@ -1,0 +1,11 @@
+start - 
+https://dbdiagram.io/d/sandberg-business-schema-start-66329d145b24a634d045b2be
+
+
+
+final - 
+https://dbdiagram.io/d/sandberg-business-final-6657927db65d93387906ee1c
+
+
+I didn't include as many tables as I created in the initial diagram as I can demonstrate understanding
+with 7 tables just as I can with 17 tables.

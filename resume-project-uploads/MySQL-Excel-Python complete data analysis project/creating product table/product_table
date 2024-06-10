@@ -1,0 +1,11 @@
+,product_id,vendor_id,product_name,product_type,cost,sale_price,profit
+0,1,1,Iphone,electronic,650,1000,350
+1,2,1,Ipad,electronic,550,800,250
+2,3,2,Samsung Tablet,electronic,350,700,350
+3,4,2,Samsung 550 TV,electronic,1000,1350,350
+4,5,2,Samsung 650 TV,electronic,1650,2100,450
+5,6,3,GeForce RTX 3060,electronic,190,290,100
+6,7,4,patio table,outdoor-furniture,150,450,300
+7,8,4,patio chair,outdoor-furniture,25,75,50
+8,9,5,loveseat,indoor-furniture,300,750,450
+9,10,5,ottoman,indoor-furniture,35,125,90
