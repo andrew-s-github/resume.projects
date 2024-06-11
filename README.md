@@ -6,4 +6,5 @@ My most thorough projects are:
 2. resume-project-uploads -> Python -> Python data cleaning -> main.ipynb
 3. resume-project-uploads -> Excel -> Bike sales Dashboard
 
-Backup link to projects : https://drive.google.com/drive/folders/1NwkXrrIrarj0Aj-IWvTqUZrkIXO7QGGH?usp=sharing
+Backup link to projects in-case of storage limits:
+https://drive.google.com/drive/folders/1NwkXrrIrarj0Aj-IWvTqUZrkIXO7QGGH?usp=sharing
