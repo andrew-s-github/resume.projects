@@ -16,7 +16,7 @@
 	more than a few times. In one instance taking information from a data-frame I had brackets around all the values. Instead of dealing with lists and series, I just used it as is then used excel find and 
 	replace to deal with it instead.
 	
-	Once all the data was populated in MYSQL database, I ran queries on each induvial table to gain insight into the data.
+	Once all the data was populated in MYSQL database, I ran queries on each individual table to gain insight into the data.
 	
 	Then I created queries demonstrating joins across the whole database, showing how you would put together the structured information for analysis. 
 	
