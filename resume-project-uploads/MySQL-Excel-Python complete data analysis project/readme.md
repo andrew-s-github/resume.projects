@@ -3,7 +3,7 @@
 	SIMPLY PUT – 	I created an MYSQL schema through the help of https://dbdiagram.io/. Then exported the schema to be used in MYSQL. I created the tables and information in python. 
 			Exported created data-frames from python in csv to be imported into excel for minor cleaning, before being finally imported into MYSQL database. I created queries on each table, 
 			as well as a script containing joins across all the tables. I went back to python to do exploratory data analysis utilizing pandas, matplotlib, and seaborn. Finally, I created 
-			an excel dashboard with analysis in excel to cap the project. 
+			an excel dashboard with an analysis sheet to cap the project. 
 	
 	I started this project using a website called https://dbdiagram.io/ to create the initial schema and template for the project. 
 	After creating the schema, I exported it to MYSQL to use as the base of my data science process.
