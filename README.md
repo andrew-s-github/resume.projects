@@ -7,4 +7,4 @@ My most thorough projects are:
 3. resume-project-uploads -> Excel -> Bike sales Dashboard
 
 Backup link to projects in-case of storage limits:
-https://drive.google.com/drive/folders/1NwkXrrIrarj0Aj-IWvTqUZrkIXO7QGGH?usp=sharing
+[https://drive.google.com/drive/folders/1NwkXrrIrarj0Aj-IWvTqUZrkIXO7QGGH?usp=sharing](https://drive.google.com/drive/folders/1NwkXrrIrarj0Aj-IWvTqUZrkIXO7QGGH?usp=sharing)
